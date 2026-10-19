@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__SolarIQ__vidiq_video_upload",
+      "mcp__SolarIQ__vidiq_instagram_publish_reel",
+      "mcp__Zapier__execute_zapier_write_action"
+    ]
+  }
+}
